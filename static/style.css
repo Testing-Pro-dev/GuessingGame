@@ -1,0 +1,18 @@
+body {
+    background-color: hsla(235, 100%, 97%, 1);
+}
+form {
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 1px 1px yellow;
+    margin-top: 50%;
+    background-color: hsla(235, 100%, 100%, 1);
+}
+button {
+    margin-bottom: 50px;
+    margin-top: 1.5em;
+    padding: 10px 15px;
+}
+input{
+    text-align: center;
+}
